@@ -1,0 +1,5 @@
+C:\Users\allinggard.vincent\Desktop\Programering\Frågesport\Frågesport\obj\Debug\net5.0\Frågesport.csproj.AssemblyReference.cache
+C:\Users\allinggard.vincent\Desktop\Programering\Frågesport\Frågesport\obj\Debug\net5.0\Frågesport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allinggard.vincent\Desktop\Programering\Frågesport\Frågesport\obj\Debug\net5.0\Frågesport.AssemblyInfoInputs.cache
+C:\Users\allinggard.vincent\Desktop\Programering\Frågesport\Frågesport\obj\Debug\net5.0\Frågesport.AssemblyInfo.cs
+C:\Users\allinggard.vincent\Desktop\Programering\Frågesport\Frågesport\obj\Debug\net5.0\Frågesport.csproj.CoreCompileInputs.cache
